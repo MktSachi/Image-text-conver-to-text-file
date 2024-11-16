@@ -28,7 +28,4 @@ This project converts text from images to text files using Python.
    python script_name.py
    ```
 
-## License
-This project is licensed under the MIT License.
-
 You can edit the README file [here](https://github.com/MktSachi/Image-text-conver-to-text-file/edit/main/README.md) to include this information.
